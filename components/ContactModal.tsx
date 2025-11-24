@@ -119,7 +119,7 @@ const ContactModal: React.FC<ContactModalProps> = ({ isOpen, onClose }) => {
                   ) : (
                     <>
                       Solicitar Acesso
-                      <span className="text-brand-900">>></span>
+                      <span className="text-brand-900">&gt;&gt;</span>
                     </>
                   )}
                 </button>
