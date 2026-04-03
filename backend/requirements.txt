@@ -1,0 +1,33 @@
+# ── Web Framework ──
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+
+# ── Banco de Dados ──
+sqlalchemy==2.0.36
+aiosqlite==0.20.0
+
+# ── Validação e Config ──
+pydantic==2.10.5
+pydantic-settings==2.7.1
+
+# ── Processamento de Dados ──
+pandas==2.2.3
+openpyxl==3.1.5
+
+# ── Dados Externos (Sprint 2) ──
+httpx==0.28.1
+holidays==0.63
+numpy==1.26.4
+
+# ── Machine Learning (Sprint 3) ──
+xgboost==2.1.4
+scikit-learn==1.6.1
+joblib==1.4.2
+
+# ── Utilitários ──
+python-dotenv==1.0.1
+loguru==0.7.3
+
+# ── Inteagration & AI (Sprint 4) ──
+google-generativeai==0.8.3

@@ -1,0 +1,60 @@
+ean,nome,categoria,preco_venda,preco_custo,estoque,validade,fornecedor
+7891000100103,Leite Integral Piracanjuba 1L,Laticínios,6.49,4.20,85,2026-04-15,Piracanjuba
+7891000100110,Leite Desnatado Itambé 1L,Laticínios,6.29,4.00,42,2026-04-18,Itambé
+7891000100127,Iogurte Grego Danone 100g,Laticínios,4.99,2.80,120,2026-04-05,Danone
+7891000100134,Iogurte Natural Nestlé 170g,Laticínios,3.79,2.10,65,2026-04-08,Nestlé
+7891000100141,Queijo Mussarela Tirolez kg,Laticínios,44.90,32.00,28,2026-04-20,Tirolez
+7891000100158,Manteiga Aviação 200g,Laticínios,12.49,8.50,35,2026-05-10,Aviação
+7891000100165,Requeijão Catupiry 200g,Laticínios,9.99,6.80,50,2026-04-25,Catupiry
+7891000200100,Cerveja Heineken 350ml,Bebidas,5.99,3.20,200,2026-08-01,Heineken
+7891000200117,Cerveja Brahma 350ml,Bebidas,3.19,1.80,350,2026-09-01,Ambev
+7891000200124,Refrigerante Coca-Cola 2L,Bebidas,10.99,7.20,150,2026-07-15,Coca-Cola
+7891000200131,Refrigerante Guaraná Antarctica 2L,Bebidas,7.49,4.80,120,2026-07-20,Ambev
+7891000200148,Água Mineral Crystal 500ml,Bebidas,2.49,0.80,400,2026-12-01,Crystal
+7891000200155,Suco Del Valle Uva 1L,Bebidas,8.99,5.50,60,2026-06-15,Del Valle
+7891000200162,Cerveja Skol 350ml,Bebidas,2.99,1.60,280,2026-08-20,Ambev
+7891000200179,Energético Red Bull 250ml,Bebidas,12.99,8.00,45,2026-10-01,Red Bull
+7891000300106,Picanha Bovina kg,Açougue,79.90,58.00,15,2026-04-03,Friboi
+7891000300113,Contra Filé kg,Açougue,49.90,35.00,22,2026-04-04,Marfrig
+7891000300120,Frango Inteiro Resfriado kg,Açougue,14.90,9.80,40,2026-04-02,Seara
+7891000300137,Linguiça Toscana Sadia 500g,Açougue,16.90,11.00,55,2026-04-10,Sadia
+7891000300144,Carne Moída Patinho kg,Açougue,34.90,24.00,18,2026-04-03,Friboi
+7891000400103,Pão Francês kg,Padaria,16.90,8.50,30,,Produção Própria
+7891000400110,Bolo de Chocolate fatia,Padaria,8.90,4.20,12,2026-04-02,Produção Própria
+7891000400127,Pão de Forma Seven Boys 500g,Padaria,9.49,6.00,45,2026-04-08,Seven Boys
+7891000400134,Biscoito Cream Cracker Piraquê 200g,Padaria,5.49,3.20,80,2026-08-15,Piraquê
+7891000400141,Rosquinha Cadore 300g,Padaria,7.99,4.50,35,2026-06-20,Cadore
+7891000500100,Banana Prata kg,FLV,5.99,3.20,60,2026-04-05,CEASA
+7891000500117,Tomate Italiano kg,FLV,8.99,5.50,40,2026-04-03,CEASA
+7891000500124,Batata Inglesa kg,FLV,6.49,3.80,55,2026-04-08,CEASA
+7891000500131,Cebola Branca kg,FLV,4.99,2.80,70,2026-04-10,CEASA
+7891000500148,Alface Crespa un,FLV,3.49,1.50,25,2026-04-02,CEASA
+7891000500155,Maçã Fuji kg,FLV,12.90,8.00,35,2026-04-12,CEASA
+7891000600107,Detergente Ypê 500ml,Limpeza,2.99,1.50,90,,Ypê
+7891000600114,Sabão em Pó OMO 800g,Limpeza,15.90,10.50,40,,Unilever
+7891000600121,Água Sanitária Qboa 1L,Limpeza,4.49,2.20,65,,Qboa
+7891000600138,Limpador Multiuso Veja 500ml,Limpeza,7.99,4.80,50,,Reckitt
+7891000600145,Esponja Scotch-Brite 3un,Limpeza,5.49,2.80,100,,3M
+7891000700104,Papel Higiênico Neve 12un,Higiene,22.90,15.00,30,,Kimberly-Clark
+7891000700111,Sabonete Dove 90g,Higiene,4.99,2.80,75,,Unilever
+7891000700128,Shampoo Pantene 400ml,Higiene,19.90,12.00,25,,P&G
+7891000700135,Creme Dental Colgate 90g,Higiene,6.49,3.50,60,,Colgate
+7891000700142,Desodorante Rexona 150ml,Higiene,14.90,9.00,35,,Unilever
+7891000800101,Arroz Tio João 5kg,Mercearia,29.90,21.00,45,,Josapar
+7891000800118,Feijão Carioca Camil 1kg,Mercearia,8.99,5.80,55,,Camil
+7891000800125,Macarrão Espaguete Barilla 500g,Mercearia,7.49,4.50,70,,Barilla
+7891000800132,Óleo de Soja Liza 900ml,Mercearia,8.99,5.50,40,,Cargill
+7891000800149,Açúcar Refinado União 1kg,Mercearia,5.49,3.20,80,,Camil
+7891000800156,Café Pilão 500g,Mercearia,18.90,12.00,35,,JDE
+7891000800163,Molho de Tomate Heinz 340g,Mercearia,6.99,4.00,50,,Heinz
+7891000800170,Sal Cisne 1kg,Mercearia,3.49,1.80,90,,Cisne
+7891000900108,Pizza Congelada Sadia 460g,Congelados,18.90,12.00,30,2026-06-15,Sadia
+7891000900115,Lasanha Congelada Seara 600g,Congelados,15.90,10.00,25,2026-05-20,Seara
+7891000900122,Sorvete Kibon 1.5L,Congelados,24.90,16.00,20,2026-07-01,Kibon
+7891000900139,Hambúrguer Seara 672g,Congelados,22.90,14.00,35,2026-05-10,Seara
+7891000900146,Nuggets Sadia 300g,Congelados,14.90,9.00,40,2026-05-25,Sadia
+7891001000101,Ração Premium Dog Pedigree 3kg,Pet,42.90,28.00,20,,Pedigree
+7891001000118,Areia Sanitária Pipicat 4kg,Pet,18.90,11.00,15,,Pipicat
+7891001000125,Ração Gato Whiskas 1kg,Pet,19.90,12.00,25,,Whiskas
+7891001000132,Sachê Gato Felix 85g,Pet,3.49,1.80,60,,Felix
+7891001000139,Petisco Pedigree Dentastix,Pet,12.90,7.50,30,,Pedigree
